@@ -1,3 +1,3 @@
 # Projeto introdutorio ao .NET e o C#.
 
-Foi utilizada a versão 6.0 do .NET. 
+Foi usado a versão 6.0 do .NET, utilizando a ferramenta ASP.NET.Core para desenvolvimento Web. 
